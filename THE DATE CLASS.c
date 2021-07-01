@@ -350,3 +350,6 @@ void main()
 	d1.test(45);
 	_getch();
 }
+//
+..
+	/asda
